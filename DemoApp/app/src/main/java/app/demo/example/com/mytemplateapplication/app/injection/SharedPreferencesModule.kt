@@ -7,8 +7,7 @@ import dagger.Module
 import dagger.Provides
 
 /**
- * Created by Guillermo Bonafonte on 14/11/17.
- * 2017 © Cognizant Technology Solutions
+ * Created by Guillermo Bonafonte
  */
 
 @Module

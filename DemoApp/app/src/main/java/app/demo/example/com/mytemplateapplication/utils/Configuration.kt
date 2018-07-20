@@ -6,8 +6,6 @@ import app.demo.example.com.mytemplateapplication.BuildConfig
  *
  * Provides the configuration that depends on the build variant
  *
- * Created by Jorge Para on 10/30/17.
- * 2017 © Cognizant Technology Solutions
  */
 const val FLAVOR_MOCK: String = "cjMock"
 const val FLAVOR_QA: String = "cjQa"

@@ -6,11 +6,7 @@ import java.util.concurrent.Executor
 import java.util.concurrent.Executors
 
 /**
- *
  * Shared schedulers provider
- *
- * Created by Jorge Para on 10/30/17.
- * 2017 © Cognizant Technology Solutions
  */
 class AppSchedulers : Schedulers {
 
